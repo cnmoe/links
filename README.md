@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 # 想要和 [我](https://blog.yuanmoe.com/) 交换 [友情链接](https://blog.yuanmoe.com/links/) 吗？
 
 > 请阅读以下「自助友链交换流程」
